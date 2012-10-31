@@ -1,0 +1,5 @@
+# Title
+BOMBAY ACT No. XXXIX OF 1957
+[THE BOMBAY ABOLITION OF WHIPPING ACT, 1957]
+[28th September 1957]
+Amended by Mah. 22 of 1991 (9th September 1991)†
