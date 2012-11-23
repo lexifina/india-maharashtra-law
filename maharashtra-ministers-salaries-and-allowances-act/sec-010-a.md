@@ -1,0 +1,4 @@
+# Section 10A
+[10A. (1) Every[Minister, Minister of State and Deputy Minister] shall during the term of his office be entitled also to have a telephone installed at Government cost at the place of residence or at any place in his constituency selected by him (being a place other than the place of residence provided under this Act by the State Government).
+(2) No charge shall fall on the[Minister, Minister of State or Deputy Minister] personally in respect of installation of, initial deposit for, rental charges for, maintenance of and official calls made from, the telephone installed under sub-section (1).
+(3) There shall also be paid to every[Minister, Minister of State and Deputy Minister] a sum of[Rs. 12,000] per month from the month in which telephone facility has been provided under this section.
