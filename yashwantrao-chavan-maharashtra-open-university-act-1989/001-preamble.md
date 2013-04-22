@@ -1,0 +1,3 @@
+# Preamble
+An Act to establish and incorporate an Open University in the State of Maharashtra for the introduction and promotion of the Open University and distance education system in the Educational Pattern of the State.
+WHEREAS it is expedient to enact a law to establish and incorporate an Open University in the State of Maharashtra for the introduction and promotion of the Open University and distance education system in the educational pattern of the State of Maharashtra, as a measure in the decentralisation and reorganisation of University education in that State and to provide for matters connected therewith or supplemental or incidental thereto; It is hereby enacted in the Fortieth Year of the Republic of India as follows :--
