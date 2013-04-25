@@ -1,0 +1,3 @@
+# Preamble
+An Act to provide, in the interests of the general public, for the control and regulation of the production, movement, supply and distribution of and trade and commerce in certain commodities and the maintenance and movement of cattle.
+WHEREAS it is expedient to provide in the interests of the general public, for the control and regulation of the production, movement, supply and distribution of certain commodities essential to the life of the community and for the control and regulation of trade and commerce therein and for the maintenance, licensing and movement of cattle and the licensing of dealers in such commodities and cattle and for certain other purposes ; It is hereby enacted in the Ninth Year of the Republic of India as follows :-
