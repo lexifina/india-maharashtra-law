@@ -1,0 +1,3 @@
+# Section 2B
+2B. (1) A Collector shall, within the limits of his jurisdiction, exercise such powers and perform such duties and discharge such functions as are conferred or imposed upon him by or under the provisions of this Act.
+(2) The State Government may, by notification in the Official Gazette, appoint any person other than the Collector to exercise in any district or place, all or any of the powers and to perform or discharge all or any of the duties and functions as are assigned by or under this Act to a Collector, subject to such control, if any in addition to that of the [Commissioner] and of the State Government, as the State Government may from time to time direct.
