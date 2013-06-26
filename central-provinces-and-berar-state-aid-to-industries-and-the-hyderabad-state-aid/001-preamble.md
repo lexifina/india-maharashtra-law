@@ -1,0 +1,3 @@
+# Preamble
+An Act to repeal the Central Provinces and Berar State Aid to Industries Act, 1933.
+and the Hyderabad State Aid to (Small-Scale and Cottage) Industries Act, 1956 in so far as the said Acts relate to State aid given in the form of loans. WHEREAS it is expedient to repeal the Central Provinces and Berar State Aid to Industries Act, 1933 in its application to the Vidarbha region of the State of Bombay and the Hyderabad State Aid to (Small-Scale and Cottage) Industries Act, 1956 in so far as the said Acts relate to State aid given in the form of loans ; It is hereby enacted in the Tenth Year of the Republic of India, as follows :-
