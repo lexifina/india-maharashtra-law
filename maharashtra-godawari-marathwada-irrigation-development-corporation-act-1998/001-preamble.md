@@ -1,0 +1,5 @@
+# Preamble
+An Act to make special provisions for promotion and operation of irrigation projects, command area development and schemes for generation of hydro-electric energy to harness the water of Godawari River pertaining to the State of Maharashtra and other allied and incidental activities including flood control in the Godavari River Valley by establishing the Godawari Marathwada Irrigation Development Corporation.
+WHEREAS it is expedient to make special provisions for promotion and operation of Irrigation projects', command area development and schemes for generation of hydro-electric energy to harness the water of Godawari River pertaining to the State of Maharashtra and other allied and incidental activities including flood control in the Godawari River Valley by establishing the Godawari Marathwada Irrigation Development Corporation, and to provide for matters connected therewith and incidental thereto hereinafter appearing; it is hereby enacted in the Forty-ninth Year of the Republic of India, as follows :-
+CHAPTER I
+PRELIMINARY
