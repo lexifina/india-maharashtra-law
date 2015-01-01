@@ -1,0 +1,6 @@
+# Preamble
+An Act to prohibit collection of capitation fee for admission of students to, and their promotion to a higher standard or class in the educational institutions in the State of Maharashtra and to provide for matters connected therewith.
+WHEREAS the practice of collecting capitation fee for admitting students into educa- tional institutions and at the time of promoting students to a higher standard or class at various stages of education is on the increase in the State;
+AND WHEREAS this undesirable practice has been contributing to large scale commercialisation of education which is not conductive to the maintenance of educational standards;
+AND WHEREAS the National Policy on Education 1986 envisages that the commercialisation of technical and professional education should be curbed and that steps should be taken to prevent the establishment of institutions set up to commercialise education;
+AND WHEREAS with a view to effectively curb this evil practice, it is expedient in the public interest to prohibit collection of capitation fee for admission of students to, and their promotion to a higher standard or class in, the educational institutions in the State of Maharashtra and to provide for matters connected therewith; It is hereby enacted in the Thirty-eighth Year of the Republic of India as follows :-
