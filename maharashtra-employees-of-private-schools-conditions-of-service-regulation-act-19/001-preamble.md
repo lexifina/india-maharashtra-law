@@ -1,0 +1,4 @@
+# Preamble
+An Act to regulate recruitment and condition of service of employees in certain private schools WHEREAS it is expedient to regulate the recruitment and conditions of service of employees in certain private schools in the State, with a view to providing such employees security and stability of service to enable them to discharge their duties towards the pupils and their guardians in particular, and the institution and the society in general, effectively and efficiently ;
+AND WHEREAS it is further expedient in the public interest to lay down the duties and functions of such employees with a view to ensuring that they become accountable to the Management and contribute their mite for improving the standard of education ;
+AND WHEREAS it is also necessary to make certain supplemental, incidental and consequential provisions ; it is hereby enacted in the Twenty- eighth year of the Republic of India as follows :-
