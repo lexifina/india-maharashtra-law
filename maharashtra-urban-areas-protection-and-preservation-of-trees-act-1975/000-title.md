@@ -1,0 +1,8 @@
+# Title
+MAHARASHTRA ACT No. XLIV OF 1975
+[THE MAHARASHTRA (URBAN AREAS) PROTECTION AND PRESERVATION OF TREES ACT, 1975] [ 16th September, 1975]
+Amended by Mah. 3 of 1977 (8-1-1977).†
+" " " 7 of 1996 (8-1-1996)†
+" " " 10 of 2010 (1-6-2010)†
+" " " 6 of 2012 $ (12-3-2012)†
+" " " 15 of 2015
