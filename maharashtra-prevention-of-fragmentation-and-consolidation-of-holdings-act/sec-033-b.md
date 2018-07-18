@@ -1,0 +1,2 @@
+# Section 33B
+33B. For the purpose of preparing or enforcing any scheme or otherwise, for carrying out the objects of this Act, a Consolidation Officer or any person duly authorised by him may, after giving such notice as may be prescribed, to the owner or occupier or other person interested in any land, enter upon and survey such land or erect survey marks thereon and demarcate the boundaries thereof and do all other acts necessary for such purpose.

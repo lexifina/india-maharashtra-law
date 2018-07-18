@@ -1,0 +1,2 @@
+# Section 31A
+[31A. If, after a scheme has come into force, it appears to the Settlement Commissioner that the scheme is defective on account of any clerical or arithmetical mistake or error arising therein from any accidental slip or omission, and he is satisfied that the correction of such mistake or error would not vary the scheme in any material particular, he may by order in writing correct such mistake or error and publish his order in the prescribed manner.]
