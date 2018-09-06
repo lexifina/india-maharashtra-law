@@ -1,0 +1,7 @@
+# Preamble
+An Act to provide for academic autonomy and excellence, adequate representation through democratic process, transformation, strengthening and regulating higher education and for matters connected therewith or incidental thereto.
+WHEREAS it is expedient to provide for academic autonomy to non-agricultural and non-medical universities in the State of Maharashtra and to make better provisions therefor;
+AND WHEREAS the Government of Maharashtra had appointed committees under the Chairmanships of Dr. Arun Nigvekar, Dr. Anil Kakodkar, Dr. Ram Takwale and Late Mrs. Kumud Bansal with a view to consider and recommend on different aspects of higher education and learning and to suggest various measures to ensure such automomy;
+AND WHEREAS after considering the recommendations of the said committees the Government of Maharashtra considers it expedient to make a law to provide for academic autonomy and excellence, adequate representation through democratic process, transformation, strengthening and regulating higher education and to regulate the non-agricultural and non-medical universities in the State of Maharashtra in more effective manner, to provide for participation of universities in social and educational spheres, to establish Maharashtra State Commission for Higher Education and Development, to constitute various Boards, and to repeal the Maharashtra Universities Act, 1994; it is hereby enacted in the Sixty-Seventh Year of the Republic of lndia as follows:-
+CHAPTER I
+PRELIMINARY
