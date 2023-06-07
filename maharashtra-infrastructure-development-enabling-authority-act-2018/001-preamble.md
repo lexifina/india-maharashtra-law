@@ -1,0 +1,6 @@
+# Preamble
+An Act to provide for the establishment of the Maharashtra Infrastructure Development Enabling Authority, to regulate the process of submission and evaluation of unsolicited proposals, to promote and facilitate infrastructure projects in the State of Maharashtra including through Public Private Partnership and matters connected therewith or incidental thereto.
+WHEREAS, both Houses of the State Legislature were not in session ; AND WHEREAS, the Governor of Maharashtra was satisfied that circumstances existed which rendered it necessary for him to take immediate action to make a law, for the establishment of the Maharashtra Infrastructure Development Enabling Authority, to regulate the process of submission and evaluation of unsolicited proposals, to promote and facilitate infrastructure projects in the State of Maharashtra including through Public Private Partnership; and matters connected therewith or incidental thereto ; and, therefore, promulgated the Maharashtra Infrastructure Development Enabling Authority Ordinance, 2018 (Mah.Ord. VII of 2018), on the 23rd February 2018 ;
+AND WHEREAS, it is expedient to replace the said Ordinance by an Act of the State Legislature; it is hereby enacted in the Sixty-ninth Year of the Republic of India as follows :-
+CHAPTER I
+PRELIMINARY
