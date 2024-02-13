@@ -1,0 +1,4 @@
+# Title
+MAHARASHTRA ACT NO. XXV OF 2014
+[THE CITY OF MUMBAI PRIMARY EDUCATION, THE MAHARASHTRA PRIMARY EDUCATION, THE HYDERABAD COMPULSORY PRIMARY EDUCATION AND THE MADHYA PRADESH PRIMARY EDUCATION (REPEAL) ACT, 2013.]
+[This Act received the assent of the Governor on 25th June 2014; assent was first published, in the "Maharashtra Government Gazette", on the 26th June 2014.]
