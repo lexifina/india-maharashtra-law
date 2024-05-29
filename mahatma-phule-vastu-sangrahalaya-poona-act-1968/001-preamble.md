@@ -1,0 +1,3 @@
+# Preamble
+An Act to extend the activities of the Museum at Poona under the name of the Mahatma Phule Vastu Sangrahalaya, Poona, and to make better provision for the management and maintenance thereof.
+WHEREAS, it is expedient to extend the activities of the Museum now known as the Lord Reay Maharashtra Industrial Museum at Poona, and to rename it as the Mahatma Phule Vastu Sangrahalaya, Poona, and to make better provision for the management and maintenance thereof and to provide for matters connected with the purposes aforesaid ; It is hereby enacted in the Nineteenth Year of the Republic of India as follows :- PRELIMINARY
