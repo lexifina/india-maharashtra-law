@@ -1,0 +1,3 @@
+# Preamble
+An Act to make better provision for the preservation of ancient and historical monuments and records and archaeological sites and remains (other than those declared to be of national importance) in the State of Maharashtra, and for matters connected with the purposes aforesaid.
+WHEREAS, it is expedient to make better provision for the preservation of ancient and historical monuments and records and archaeological sites and remains (other than those declared to be of national importance) in the State of Maharashtra, and for matters connected with the purposes aforesaid; It is hereby enacted in the Eleventh Year of the Republic of India as follows :-
