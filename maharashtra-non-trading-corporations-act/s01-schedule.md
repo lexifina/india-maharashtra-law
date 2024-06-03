@@ -1,0 +1,29 @@
+# Schedule I
+SCHEDULE I (See section 6).
+MEMORANDUM OF ASSOCIATION.
+1. The name of the Corporation is "........................................................."
+2. The registered office of the corporation will be situated at .............................in the [State of Maharashtra].
+3. The objects for which the corporation is established are :- ................................................................................................................. ................................................................................................................. ................................................................................................................. the doing of all such other lawful things as are incidental or conducive to the attainment of the above objects :
+Provided that the corporation shall not support with its funds, or endeavour to impose on, or procure to be observed by, its members or others, any regulation or restriction which, if an object of the corporation, would make it a Trade Union.
+4. The objects of the corporation are confined to the [State of Maharashtra] only.
+5. (1) The income and property of the corporation, whenever derived shall be applied solely for the promotion of its objects as set forth in this memorandum.
+(2) No portion of income or property aforesaid shall be paid or transferred, directly or indirectly, by way of dividend, bonus or otherwise by way of profit, to persons who at any time are, or have been members of the corporation or to any one or more of them or to any persons claiming through any one or more of them; provided that-
+(a) no remuneration or other benefit in money or money‟s worth shall be given by the corporation to any of its members, whether officers or servants of the corporation or not, except payment of out of-pocket expenses, reasonable and proper interest on money lent, or reasonable and proper rent on premises let to the corporation ;
+(b) no member shall be appointed to any office under the corporation which is remunerated by salary, fees or in any other manner not excepted by clause (a) ;
+(c) nothing in this clause shall prevent the payment by the corporation in good faith of reasonable remuneration to any of its officers or servants (not being members) or to any other person (not being a member) in return for any service actually rendered to the corporation.
+6. No alteration shall be made in the memorandum of association or in the articles of association of the corporation which are for the time being in force, except in accordance with the provisions of the Bombay Non-trading Corporations Act, 1959.
+7. The liability of the members is limited.
+8. Each member undertakes to contribute to the assets of the corporation in the event of its being wound up while he is a member or within one year after he ceases to be a member for payment of the debts or liabilities of the corporation contracted before he ceases to be member and of the costs, charges and expenses of winding up, and for adjustment of the rights of the contributories among themselves such amount as may be required not exceeding a sum of Rs.................................
+9. The share capital of the corporation will consist of Rs....................... divided into....................... shares of............................................rupees each.
+10. True account shall be kept of all sums of money received and expended by the corporation and the matters in respect of which such receipts and expenditure take place, and of the property, credits and liabilities of the corporation and subject to the reasonable restrictions as to the time and manner of inspecting the same that may be imposed in accordance with the regulations of the corporation for the time being in force, the accounts shall be open to the inspection of the members. Once at least in every year the accounts of the corporations shall be examined and the correctness of the balance sheet and the income and expenditure account ascertained by one or more properly qualified auditor or auditors.
+11. If upon a winding up or dissolution, there remains, after the satisfaction of all the debts and liabilities, any property whatsoever the same shall not be distributed amongst the members of the corporation but shall be given or transferred to such other corporation having objects similar to the objects of this corporation to be determined by the Registrar appointed under the Bombay Non-trading Corporations Act, 1959.
+12. We, the several persons whose names, addresses, descriptions and occupations are hereunto subscribed are desirous of being formed into an association not for profit, in pursuance of this memorandum of association.
+Names, addresses, descriptions, occupations of the subscribers
+1. ............................................................... of ................................................................. *
+2. ............................................................... of ................................................................. *
+3. ............................................................... of ................................................................. *
+4. ............................................................... of ................................................................. *
+5. ............................................................... of ................................................................. *
+6. ............................................................... of ................................................................. *
+7. ............................................................... of ................................................................. * Dated the day of Witness to the above signatures.
+(Here enter the "number of shares" taken by each subscriber.)
