@@ -1,0 +1,22 @@
+Law texts
+
+The texts in this repository are Maharashtra Acts as reprinted, in English, by the Law and Judiciary Department,
+Government of Maharashtra (lj.maharashtra.gov.in, "Reprint of the Act"). Each reprint gives the Act as modified up to
+the date it states.
+
+- Copyright: the Copyright Act, 1957, s. 52(1)(q), says that the following does not infringe copyright: "the
+  reproduction or publication of ... (ii) any Act of a Legislature subject to the condition that such Act is
+  reproduced or published together with any commentary thereon or any other original matter". This repository
+  publishes each Act together with original matter of its own: the arrangement of the text as a git history, the
+  amendment ledger in data/amendments.csv, the version data and the documentation.
+- The department's website policy says: "Material featured on this website may be reproduced free of charge after
+  taking proper permission by sending a mail to us. However, the material has to be reproduced accurately and not to
+  be used in a derogatory manner or in a misleading context. Wherever the material is being published or issued to
+  others, the source must be prominently acknowledged." The Act text is reproduced here under s. 52(1)(q)(ii) above;
+  the source is acknowledged below and in every version's note.
+- The reprints are not the authoritative text: the Acts as published in the Maharashtra Government Gazette are.
+
+Attribution: Source: Law and Judiciary Department, Government of Maharashtra, https://lj.maharashtra.gov.in.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

@@ -1,0 +1,8 @@
+{
+  "path": "in-mh",
+  "code": "IN-MH",
+  "name": "Maharashtra",
+  "level": "country",
+  "repo": "https://github.com/lexifina/india-maharashtra-law",
+  "build": "built: Maharashtra Acts, current text from the Law and Judiciary Department's English reprints"
+}
