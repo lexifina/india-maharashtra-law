@@ -1,5 +1,7 @@
 # Maharashtra: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Maharashtra, India, which global-law reads at `india/maharashtra/acts/`.
+
 The Acts of the State of Maharashtra (India) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text of the department's reprints.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
